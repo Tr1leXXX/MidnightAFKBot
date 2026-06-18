@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MindnightAFKBOT",
-    "password": "",
+    "username": "MossSMPAFKBOT",
+    "password": "McMossSMP.aternos.me",
     "type": "offline"
   },
   "server": {
-    "ip": "MidnightSMP.aternos.me",
-    "port": 49633,
+    "ip": "McMossSMP.aternos.me",
+    "port": 17527,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Follow eeem1l on Tiktok!",
+        "Follow the rules!",
+        "Join the discord server by typing /discord"
       ]
     },
     "chat-log": true,
